@@ -136,17 +136,18 @@ About me:
            # - Bullet point
             #- Bullet point
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
+#certifications:
+      #title: Certifications
+      3
+    #list:
+       # - name: CV Builder
+        #  start: 2020
+        #  end: 2021
+          #organization: Microsoft
+         # credentialid: 111-222
+         # credentialurl: www.google.com
+         # credentialname: Google
+        #  details: |
           #  Details about cert. Lorem ipsum dolor sit amet, consectetur
            # adipiscing elit.
            # Nullam eget orci purus. Nullam ultrices neque nibh.
