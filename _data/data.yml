@@ -96,7 +96,7 @@ About me:
     #title: Experiences
     #info:
       #- role: Lead Developer
-        time: 2024 
+        #time: 2024 
        # company: Startup Hubs, San Francisco
        # details: |
          # Describe your role here lorem ipsum dolor sit amet, consectetuer
